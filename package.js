@@ -1,6 +1,6 @@
 Package.describe({
   name: 'philip100:autoform-bs-country-field',
-  version: '0.0.1',
+  version: '0.0.11',
   summary: 'Enables usage of country field in autoform',
   git: 'https://github.com/Philip-Nunoo/autoform-bs-countries.git',
   documentation: 'README.md'
