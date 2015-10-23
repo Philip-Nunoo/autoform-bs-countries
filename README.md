@@ -1,9 +1,10 @@
 philip100:autoform-bs-country-field
 =====================
+[![Meteor Icon](http://icon.meteor.com/package/philip100:autoform-bs-country-field)](https://atmospherejs.com/philip100/autoform-bs-country-field)
 
 An add-on Meteor package for aldeed:autoform. Provides a Bootstrap select field for countries for AutoForm input field 'bootstrap-countries-field'.
 
-##Perequisite
+## Perequisite
 In a Meteor app directory, enter:
 
 #### AutoForm
