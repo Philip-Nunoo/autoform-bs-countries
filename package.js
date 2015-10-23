@@ -16,7 +16,7 @@ Package.onUse(function(api) {
     , both);
   api.use(["spacebars", "ui"], "client");
 
-  api.use('twbs:bootstrap');
+  api.use('twbs:bootstrap@3.3.5');
   api.use('aldeed:autoform@4.0.0 || 5.0.0');
 
   api.addFiles('lib/client/autoform-bs-countries-field.html', 'client');
