@@ -15,7 +15,7 @@ Package.onUse(function(api) {
     'coffeescript']
     , both);
   api.use(["spacebars", "ui"], "client");
-  
+
   api.use('twbs:bootstrap');
   api.use('aldeed:autoform@4.0.0 || 5.0.0');
 
@@ -25,6 +25,4 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use('tinytest');
-  api.use('antalakas:autoform-bs-daterangepicker');
-  api.addFiles('tests/autoform-bs-daterangepicker-tests.js');
 });
